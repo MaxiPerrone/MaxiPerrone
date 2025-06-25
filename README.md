@@ -1,6 +1,7 @@
 ## 🧑‍💻 About me
----
 Hello! I'm a developer passionate about technology, software architecture, and backend development. I enjoy learning and staying up-to-date on technologies in general, such as AI, cloud computing, backend development, and more.
+
+---
 
 ## 🛠️ Technologies and Tools
 
@@ -9,7 +10,7 @@ Hello! I'm a developer passionate about technology, software architecture, and b
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 
 <!-- Spring Boot -->
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
 
 <!-- Kafka -->
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
@@ -30,7 +31,8 @@ Hello! I'm a developer passionate about technology, software architecture, and b
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 <!-- AWS -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
 
 </div>
 
@@ -45,6 +47,7 @@ Hello! I'm a developer passionate about technology, software architecture, and b
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiPerrone&layout=compact&theme=radical)
 
 </div>
+
 ---
 
 Thank you for visiting my profile 😊
